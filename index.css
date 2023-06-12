@@ -1,0 +1,15 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.out-of-code {
+    color: orange;
+}
+
+.flexible-conten {
+    display: flex;
+}
+
+.half-width img {
+    width:
+}
