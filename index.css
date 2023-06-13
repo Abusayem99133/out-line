@@ -2,14 +2,63 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
+h1 {
+    font-size: 50px;
+}
+
+
 .out-of-code {
     color: orange;
 }
 
 .flexible-conten {
     display: flex;
+    margin: 10px;
 }
 
-.half-width img {
-    width:
+.half-width {
+    padding-left: 50px;
+    margin-top: 80px;
+}
+
+.new-pro {
+    background-image: url(./7.png);
+    background-repeat: no-repeat;
+    padding: 50px;
+    margin-top: 100px;
+}
+
+#onl-she {
+    padding-left: 50px;
+}
+
+img {
+    height: 420px;
+}
+
+.link-button {
+    background-image: linear-gradient(tomato, orange);
+    text-decoration: none;
+    padding: 10px 30px;
+    font-weight: 700;
+    color: white;
+    border-radius: 20px;
+}
+
+.center-aria {
+    text-align: center;
+}
+
+.flex-contain {
+    display: flex;
+    height: 520px;
+    width: 300px;
+    margin-right: 30px;
+    padding-left: 10px 40px;
+    box-shadow: 30px;
+
+}
+
+#layout-contain {
+    display: flex;
 }
